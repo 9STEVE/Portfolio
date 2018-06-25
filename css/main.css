@@ -1113,14 +1113,15 @@ header .logo a {
 	display: block;
 	margin: 0;
 	padding: 0;
-	border: none;
+	color: #ffffff;
+	/*border: none;
 	font: 0/0 a;
 	text-shadow: none;
 	color: transparent;
 	width: 92px;
 	height: 15px;
 	background: url("../images/logo.png") no-repeat center;
-	background-size: 92px 15px;
+	background-size: 92px 15px;*/
 }
 
 /**
@@ -1504,10 +1505,10 @@ header .logo a {
 	margin-left: -30px;
 }
 .intro-info img {
-	height: 9rem;
-	width: 9rem;
+	height: 25rem;
+	width: 25rem;
 	border-radius: 50%;
-	margin: .9rem 0 0 0;
+	margin: .9rem 2rem 1rem 0;
 	float: left;
 }
 .intro-info .lead {
