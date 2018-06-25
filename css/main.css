@@ -2597,4 +2597,15 @@ footer .copyright span:last-child::after {
 	background: #000000;
 }
 
+.budge {
+	border: 1px solid #FF0077;
+	padding: 5px 8px;
+	border-radius: 3px;
+	background-color: #FF0077;
+	color: white;
+}
+.source-code {
+	line-height: 3;
+	font-size: 20px;
+}
 /*# sourceMappingURL=main.css.map */
